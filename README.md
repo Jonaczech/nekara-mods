@@ -1,29 +1,48 @@
 # Nekara Mods
 
-Source repository for Nekara's client-side Fabric mod for Minecraft `26.1.2`.
-The mod customizes the title logo, the static out-of-game menu background, and
-Minecraft music event mappings.
+Zdrojový repozitář klientského Fabric modu pro Minecraft `26.1.2`. Mod mění
+statické pozadí a logo Minecraft menu a mapuje hudební události Minecraftu na
+zvukové soubory Nekary.
 
-## Repository contents
+## Rozsah
 
-This repository intentionally contains the source code, Gradle build files,
-build scripts, and Nekara menu artwork. Audio source files, generated OGG files,
-and built JAR files are not tracked. The following directory structure is kept
-with `.gitkeep` files so that authorized assets can be restored locally:
+- Pouze klientský mod pro jedinou podporovanou sestavu Nekara.
+- Fabric Loader `0.19.3+`, Fabric API `0.154.0+26.1.2` a Java 25.
+- Statické pozadí je vykreslováno v menu mimo samotný svět; pause menu ve hře
+  zachovává běžné pozadí světa.
+- Nejde o obecný modpack manager ani o serverový mod.
 
-- `source_music/` contains local MP3 or OGG source tracks grouped by category.
-- `src/main/resources/assets/minecraft/sounds/music/nekara/` is the generated
-  streamed OGG output used by the mod.
+## Zvukové podklady
 
-Do not add music or other third-party assets unless their distribution rights
-have been verified.
+Do Git repozitáře nepatří MP3, vygenerované OGG ani výsledné JAR soubory.
+Adresáře `source_music/` a
+`src/main/resources/assets/minecraft/sounds/music/nekara/` proto obsahují jen
+`.gitkeep`. Do nich lze lokálně obnovit pouze podklady s ověřeným právem k
+použití a distribuci. Pravidla a důvody jsou v
+[PROJECT_MEMORY.md](PROJECT_MEMORY.md).
 
-## Local build
+## Sestavení
 
-1. Restore only music assets that are authorized for local use into
-   `source_music/<category>/`.
-2. Install `ffmpeg` and make it available on `PATH` (or set `FFMPEG_PATH`).
-3. Run `powershell -ExecutionPolicy Bypass -File .\scripts\rebuild-from-source.ps1`.
+Pro kontrolu samotného zdroje stačí:
 
-The script converts the source tracks, regenerates `sounds.json`, refreshes the
-menu assets, and writes the JAR into `dist/`. Generated assets remain ignored.
+```powershell
+.\gradlew.bat build
+```
+
+Pro lokální sestavení s autorizovanou hudbou doplň zdroje do
+`source_music/<category>/`, nainstaluj `ffmpeg` (nebo nastav `FFMPEG_PATH`) a
+spusť:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\rebuild-from-source.ps1
+```
+
+Skript přegeneruje OGG, `sounds.json`, menu assety a vytvoří lokální JAR v
+`dist/`. Bez hudebních podkladů nevznikne funkční zvukový build, což je záměr.
+
+## Dokumentace
+
+- [HANDOFF.md](HANDOFF.md) — aktuální stav a bezpečné navázání práce.
+- [PROJECT_MEMORY.md](PROJECT_MEMORY.md) — dlouhodobá technická rozhodnutí.
+- [ROADMAP.md](ROADMAP.md) — plán dalších kroků a akceptační kritéria.
+
