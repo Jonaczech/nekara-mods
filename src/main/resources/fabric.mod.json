@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "nekara",
+  "version": "${version}",
+  "name": "Nekara",
+  "description": "Adds Nekara client-side music and a static Minecraft title-screen design.",
+  "authors": [
+    "Nekara"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Jonaczech/nekara-launcher"
+  },
+  "license": "All rights reserved",
+  "environment": "client",
+  "mixins": [
+    {
+      "config": "nekara.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "fabric-api": ">=0.154.0+26.1.2",
+    "minecraft": "26.1.2",
+    "java": ">=25"
+  }
+}

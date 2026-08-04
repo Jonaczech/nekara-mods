@@ -1,0 +1,7 @@
+/.gradle/
+/build/
+/dist/
+/run/
+*.mp3
+*.ogg
+

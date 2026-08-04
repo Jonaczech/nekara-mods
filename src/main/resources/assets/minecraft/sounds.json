@@ -1,0 +1,1190 @@
+﻿{
+    "music.menu":  {
+                       "replace":  true,
+                       "sounds":  [
+                                      {
+                                          "name":  "minecraft:music/nekara/menu/main_theme",
+                                          "stream":  true
+                                      }
+                                  ]
+                   },
+    "music.game":  {
+                       "replace":  true,
+                       "sounds":  [
+                                      {
+                                          "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                          "stream":  true
+                                      },
+                                      {
+                                          "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                          "stream":  true
+                                      },
+                                      {
+                                          "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                          "stream":  true
+                                      },
+                                      {
+                                          "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                          "stream":  true
+                                      },
+                                      {
+                                          "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                          "stream":  true
+                                      }
+                                  ]
+                   },
+    "music.creative":  {
+                           "replace":  true,
+                           "sounds":  [
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                              "stream":  true
+                                          }
+                                      ]
+                       },
+    "music.credits":  {
+                          "replace":  true,
+                          "sounds":  [
+                                         {
+                                             "name":  "minecraft:music/nekara/end/isle_of_irdorath",
+                                             "stream":  true
+                                         }
+                                     ]
+                      },
+    "music.dragon":  {
+                         "replace":  true,
+                         "sounds":  [
+                                        {
+                                            "name":  "minecraft:music/nekara/end/isle_of_irdorath",
+                                            "stream":  true
+                                        }
+                                    ]
+                     },
+    "music.end":  {
+                      "replace":  true,
+                      "sounds":  [
+                                     {
+                                         "name":  "minecraft:music/nekara/end/isle_of_irdorath",
+                                         "stream":  true
+                                     }
+                                 ]
+                  },
+    "music.nether.basalt_deltas":  {
+                                       "replace":  true,
+                                       "sounds":  [
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/graveyard",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/bandits_hideout",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/dark_forest",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/old_mine_valley",
+                                                          "stream":  true
+                                                      }
+                                                  ]
+                                   },
+    "music.nether.crimson_forest":  {
+                                        "replace":  true,
+                                        "sounds":  [
+                                                       {
+                                                           "name":  "minecraft:music/nekara/nether/graveyard",
+                                                           "stream":  true
+                                                       },
+                                                       {
+                                                           "name":  "minecraft:music/nekara/nether/bandits_hideout",
+                                                           "stream":  true
+                                                       },
+                                                       {
+                                                           "name":  "minecraft:music/nekara/nether/dark_forest",
+                                                           "stream":  true
+                                                       },
+                                                       {
+                                                           "name":  "minecraft:music/nekara/nether/old_mine_valley",
+                                                           "stream":  true
+                                                       }
+                                                   ]
+                                    },
+    "music.nether.nether_wastes":  {
+                                       "replace":  true,
+                                       "sounds":  [
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/graveyard",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/bandits_hideout",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/dark_forest",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/old_mine_valley",
+                                                          "stream":  true
+                                                      }
+                                                  ]
+                                   },
+    "music.nether.soul_sand_valley":  {
+                                          "replace":  true,
+                                          "sounds":  [
+                                                         {
+                                                             "name":  "minecraft:music/nekara/nether/graveyard",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/nether/bandits_hideout",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/nether/dark_forest",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/nether/old_mine_valley",
+                                                             "stream":  true
+                                                         }
+                                                     ]
+                                      },
+    "music.nether.warped_forest":  {
+                                       "replace":  true,
+                                       "sounds":  [
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/graveyard",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/bandits_hideout",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/dark_forest",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/nether/old_mine_valley",
+                                                          "stream":  true
+                                                      }
+                                                  ]
+                                   },
+    "music.overworld.badlands":  {
+                                     "replace":  true,
+                                     "sounds":  [
+                                                    {
+                                                        "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                        "stream":  true
+                                                    },
+                                                    {
+                                                        "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                        "stream":  true
+                                                    },
+                                                    {
+                                                        "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                        "stream":  true
+                                                    },
+                                                    {
+                                                        "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                        "stream":  true
+                                                    },
+                                                    {
+                                                        "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                        "stream":  true
+                                                    }
+                                                ]
+                                 },
+    "music.overworld.bamboo_jungle":  {
+                                          "replace":  true,
+                                          "sounds":  [
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                             "stream":  true
+                                                         }
+                                                     ]
+                                      },
+    "music.overworld.cherry_grove":  {
+                                         "replace":  true,
+                                         "sounds":  [
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                            "stream":  true
+                                                        }
+                                                    ]
+                                     },
+    "music.overworld.deep_dark":  {
+                                      "replace":  true,
+                                      "sounds":  [
+                                                     {
+                                                         "name":  "minecraft:music/nekara/deep_dark/temple_of_adanos",
+                                                         "stream":  true
+                                                     },
+                                                     {
+                                                         "name":  "minecraft:music/nekara/deep_dark/ork_temple",
+                                                         "stream":  true
+                                                     }
+                                                 ]
+                                  },
+    "music.overworld.desert":  {
+                                   "replace":  true,
+                                   "sounds":  [
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                      "stream":  true
+                                                  }
+                                              ]
+                               },
+    "music.overworld.dripstone_caves":  {
+                                            "replace":  true,
+                                            "sounds":  [
+                                                           {
+                                                               "name":  "minecraft:music/nekara/caves/canyon",
+                                                               "stream":  true
+                                                           },
+                                                           {
+                                                               "name":  "minecraft:music/nekara/caves/old_mine",
+                                                               "stream":  true
+                                                           },
+                                                           {
+                                                               "name":  "minecraft:music/nekara/caves/valley_of_lester",
+                                                               "stream":  true
+                                                           }
+                                                       ]
+                                        },
+    "music.overworld.flower_forest":  {
+                                          "replace":  true,
+                                          "sounds":  [
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                             "stream":  true
+                                                         }
+                                                     ]
+                                      },
+    "music.overworld.forest":  {
+                                   "replace":  true,
+                                   "sounds":  [
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                      "stream":  true
+                                                  }
+                                              ]
+                               },
+    "music.overworld.frozen_peaks":  {
+                                         "replace":  true,
+                                         "sounds":  [
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                            "stream":  true
+                                                        }
+                                                    ]
+                                     },
+    "music.overworld.grove":  {
+                                  "replace":  true,
+                                  "sounds":  [
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                     "stream":  true
+                                                 }
+                                             ]
+                              },
+    "music.overworld.jagged_peaks":  {
+                                         "replace":  true,
+                                         "sounds":  [
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                            "stream":  true
+                                                        }
+                                                    ]
+                                     },
+    "music.overworld.jungle":  {
+                                   "replace":  true,
+                                   "sounds":  [
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                      "stream":  true
+                                                  }
+                                              ]
+                               },
+    "music.overworld.lush_caves":  {
+                                       "replace":  true,
+                                       "sounds":  [
+                                                      {
+                                                          "name":  "minecraft:music/nekara/caves/canyon",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/caves/old_mine",
+                                                          "stream":  true
+                                                      },
+                                                      {
+                                                          "name":  "minecraft:music/nekara/caves/valley_of_lester",
+                                                          "stream":  true
+                                                      }
+                                                  ]
+                                   },
+    "music.overworld.meadow":  {
+                                   "replace":  true,
+                                   "sounds":  [
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                      "stream":  true
+                                                  },
+                                                  {
+                                                      "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                      "stream":  true
+                                                  }
+                                              ]
+                               },
+    "music.overworld.old_growth_taiga":  {
+                                             "replace":  true,
+                                             "sounds":  [
+                                                            {
+                                                                "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                                "stream":  true
+                                                            },
+                                                            {
+                                                                "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                                "stream":  true
+                                                            },
+                                                            {
+                                                                "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                                "stream":  true
+                                                            },
+                                                            {
+                                                                "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                                "stream":  true
+                                                            },
+                                                            {
+                                                                "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                                "stream":  true
+                                                            }
+                                                        ]
+                                         },
+    "music.overworld.snowy_slopes":  {
+                                         "replace":  true,
+                                         "sounds":  [
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                            "stream":  true
+                                                        }
+                                                    ]
+                                     },
+    "music.overworld.sparse_jungle":  {
+                                          "replace":  true,
+                                          "sounds":  [
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                             "stream":  true
+                                                         },
+                                                         {
+                                                             "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                             "stream":  true
+                                                         }
+                                                     ]
+                                      },
+    "music.overworld.stony_peaks":  {
+                                        "replace":  true,
+                                        "sounds":  [
+                                                       {
+                                                           "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                           "stream":  true
+                                                       },
+                                                       {
+                                                           "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                           "stream":  true
+                                                       },
+                                                       {
+                                                           "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                           "stream":  true
+                                                       },
+                                                       {
+                                                           "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                           "stream":  true
+                                                       },
+                                                       {
+                                                           "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                           "stream":  true
+                                                       }
+                                                   ]
+                                    },
+    "music.overworld.swamp":  {
+                                  "replace":  true,
+                                  "sounds":  [
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                     "stream":  true
+                                                 },
+                                                 {
+                                                     "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                     "stream":  true
+                                                 }
+                                             ]
+                              },
+    "music.under_water":  {
+                              "replace":  true,
+                              "sounds":  [
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                 "stream":  true
+                                             }
+                                         ]
+                          },
+    "music_disc.11":  {
+                          "replace":  true,
+                          "sounds":  [
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                             "stream":  true
+                                         }
+                                     ]
+                      },
+    "music_disc.13":  {
+                          "replace":  true,
+                          "sounds":  [
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                             "stream":  true
+                                         },
+                                         {
+                                             "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                             "stream":  true
+                                         }
+                                     ]
+                      },
+    "music_disc.5":  {
+                         "replace":  true,
+                         "sounds":  [
+                                        {
+                                            "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                            "stream":  true
+                                        },
+                                        {
+                                            "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                            "stream":  true
+                                        },
+                                        {
+                                            "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                            "stream":  true
+                                        },
+                                        {
+                                            "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                            "stream":  true
+                                        },
+                                        {
+                                            "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                            "stream":  true
+                                        }
+                                    ]
+                     },
+    "music_disc.blocks":  {
+                              "replace":  true,
+                              "sounds":  [
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                 "stream":  true
+                                             },
+                                             {
+                                                 "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                 "stream":  true
+                                             }
+                                         ]
+                          },
+    "music_disc.cat":  {
+                           "replace":  true,
+                           "sounds":  [
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                              "stream":  true
+                                          }
+                                      ]
+                       },
+    "music_disc.chirp":  {
+                             "replace":  true,
+                             "sounds":  [
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                "stream":  true
+                                            }
+                                        ]
+                         },
+    "music_disc.creator":  {
+                               "replace":  true,
+                               "sounds":  [
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                  "stream":  true
+                                              }
+                                          ]
+                           },
+    "music_disc.creator_music_box":  {
+                                         "replace":  true,
+                                         "sounds":  [
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                            "stream":  true
+                                                        },
+                                                        {
+                                                            "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                            "stream":  true
+                                                        }
+                                                    ]
+                                     },
+    "music_disc.far":  {
+                           "replace":  true,
+                           "sounds":  [
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                              "stream":  true
+                                          },
+                                          {
+                                              "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                              "stream":  true
+                                          }
+                                      ]
+                       },
+    "music_disc.lava_chicken":  {
+                                    "replace":  true,
+                                    "sounds":  [
+                                                   {
+                                                       "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                       "stream":  true
+                                                   },
+                                                   {
+                                                       "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                       "stream":  true
+                                                   },
+                                                   {
+                                                       "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                       "stream":  true
+                                                   },
+                                                   {
+                                                       "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                       "stream":  true
+                                                   },
+                                                   {
+                                                       "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                       "stream":  true
+                                                   }
+                                               ]
+                                },
+    "music_disc.mall":  {
+                            "replace":  true,
+                            "sounds":  [
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                               "stream":  true
+                                           }
+                                       ]
+                        },
+    "music_disc.mellohi":  {
+                               "replace":  true,
+                               "sounds":  [
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                  "stream":  true
+                                              }
+                                          ]
+                           },
+    "music_disc.otherside":  {
+                                 "replace":  true,
+                                 "sounds":  [
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                    "stream":  true
+                                                }
+                                            ]
+                             },
+    "music_disc.pigstep":  {
+                               "replace":  true,
+                               "sounds":  [
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                  "stream":  true
+                                              },
+                                              {
+                                                  "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                  "stream":  true
+                                              }
+                                          ]
+                           },
+    "music_disc.precipice":  {
+                                 "replace":  true,
+                                 "sounds":  [
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                    "stream":  true
+                                                },
+                                                {
+                                                    "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                    "stream":  true
+                                                }
+                                            ]
+                             },
+    "music_disc.relic":  {
+                             "replace":  true,
+                             "sounds":  [
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                "stream":  true
+                                            }
+                                        ]
+                         },
+    "music_disc.stal":  {
+                            "replace":  true,
+                            "sounds":  [
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                               "stream":  true
+                                           }
+                                       ]
+                        },
+    "music_disc.strad":  {
+                             "replace":  true,
+                             "sounds":  [
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                "stream":  true
+                                            }
+                                        ]
+                         },
+    "music_disc.tears":  {
+                             "replace":  true,
+                             "sounds":  [
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                                "stream":  true
+                                            },
+                                            {
+                                                "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                                "stream":  true
+                                            }
+                                        ]
+                         },
+    "music_disc.wait":  {
+                            "replace":  true,
+                            "sounds":  [
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                               "stream":  true
+                                           }
+                                       ]
+                        },
+    "music_disc.ward":  {
+                            "replace":  true,
+                            "sounds":  [
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/jharkendar",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/lobard_farm",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/forgotten_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/new_isle_world",
+                                               "stream":  true
+                                           },
+                                           {
+                                               "name":  "minecraft:music/nekara/overworld/pirats_camp",
+                                               "stream":  true
+                                           }
+                                       ]
+                        }
+}
