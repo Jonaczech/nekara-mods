@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.nekara.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "PanoramaMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
