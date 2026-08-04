@@ -51,4 +51,3 @@ Aktualizuj jej pouze při vědomé změně směru projektu.
   launcherem a funkci menu i zvuků v čistém klientovi.
 - GitHub release nevytvářej, dokud není jasné, jak lze legálně a spolehlivě
   distribuovat kompletní artefakt.
-

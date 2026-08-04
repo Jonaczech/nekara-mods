@@ -53,5 +53,4 @@ z uvedeného buildu vyvozovat.
 
 Nejprve ověř na čisté Fabric `26.1.2` instalaci vykreslení menu při různých
 rozlišeních. Poté stanov licenčně bezpečný způsob práce s kompletním zvukovým
-balíčkem; bez toho nevydávej JAR ani release.
-
+  balíčkem; bez toho nevydávej JAR ani release.

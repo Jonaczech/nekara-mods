@@ -45,4 +45,3 @@ Skript přegeneruje OGG, `sounds.json`, menu assety a vytvoří lokální JAR v
 - [HANDOFF.md](HANDOFF.md) — aktuální stav a bezpečné navázání práce.
 - [PROJECT_MEMORY.md](PROJECT_MEMORY.md) — dlouhodobá technická rozhodnutí.
 - [ROADMAP.md](ROADMAP.md) — plán dalších kroků a akceptační kritéria.
-

@@ -39,4 +39,3 @@ pro launcher, server ani veřejný modpack katalog.
   ověřeným stavem a případným release.
 - [ ] Přidat automatizovaný obsahový test JARu až ve chvíli, kdy existuje
   licenčně schválený a reprodukovatelný testovací asset set.
-
